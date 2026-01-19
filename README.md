@@ -6,12 +6,13 @@
     <title>My Cool Page Title</title>
 </head>
 <body>
+    <
     <h1>Football from diffrent countrys
-    </h1> 
+     
     <br>
     <img src='
 
-  <p>This is a paragraph of text.</p>
+  <.</p>
 </body>
 </html>
 
